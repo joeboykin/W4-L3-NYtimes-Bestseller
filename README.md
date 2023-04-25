@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='NTY BestSeller Video Walkthrough' width='' alt='TapCounter Video Walkthrough' />
+<img src= https://github.com/joeboykin/W4-L3-NYtimes-Bestseller/blob/1d9152a950c7137cd474736c43335678b0a6e300/W4%20NTY%20Bestseller%20L3.gif title='NYT BestSeller Video Walkthrough' width='' alt='NYT BestSeller Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
